@@ -35,10 +35,12 @@ namespace ProtChecked
                     if (ConnectPort(nPort))
                     {
                         Console.WriteLine("Port açma başarılı !!!");
+                        logger.Trace("Port açma başarılı !!!");
                     }
                     else
                     {
                         Console.WriteLine("Port açma BAŞARISIZ hata log dosyasını okuyun !!!");
+                        logger.Trace("Port açma BAŞARISIZ hata log dosyasını okuyun !!!");
                     }
                 }
                 else
