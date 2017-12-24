@@ -1,0 +1,35 @@
+2017-12-24 15:57:31.0762    1 TRACE ProtChecked.Program Sorgulanmasý için girilen Port deðeri 25600 'tur 
+2017-12-24 15:57:32.2606    1 TRACE ProtChecked.Program Port sorgulama girilen deðerin sayýya çevrilmesi sonrasýnda yapýlacaktýr. 
+2017-12-24 15:57:34.1100    1 TRACE ProtChecked.Program Girilen deðer sayýya çevcrildi. 
+2017-12-24 15:57:35.2977    1 TRACE ProtChecked.Program 25600 portu için sorgulama yapýlýyor... 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program Makine bilgileri alýnýyor... 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 135 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 445 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 7680 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 9007 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 49664 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 49665 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 49666 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 49667 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 49668 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 49669 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 0.0.0.0 IP adresindeki 49673 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 127.0.0.1 IP adresindeki 5354 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program 192.168.5.60 IP adresindeki 139 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 135 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 445 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 7680 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 9007 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 49664 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 49665 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 49666 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 49667 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 49668 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 49669 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:38.3210    1 TRACE ProtChecked.Program :: IP adresindeki 49673 portu bilgisayar tarafýndan kullanýlýyor. 
+2017-12-24 15:57:42.5115    1 TRACE ProtChecked.Program Port açýk 
+2017-12-24 15:57:44.4837    1 TRACE ProtChecked.Program MericPC için IP adresi bulunuyor... 
+2017-12-24 15:57:44.4927    1 TRACE ProtChecked.Program MericPC için bulunan IP adresi 192.168.5.60 'tir. 
+2017-12-24 15:57:44.4927    1 TRACE ProtChecked.Program 192.168.5.60 için 25600 portu açýlýyor 
+2017-12-24 15:57:44.4927    1 TRACE ProtChecked.Program Poprt açýmý gerçekleþti. 
+2017-12-24 15:57:44.4927    1 TRACE ProtChecked.Program Port kapatýlýyor... 

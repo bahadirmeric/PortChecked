@@ -1,0 +1,10 @@
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\obj\Debug\ProtChecked.csprojResolveAssemblyReference.cache
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\obj\Debug\ProtChecked.csproj.CoreCompileInputs.cache
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\bin\Debug\ProtChecked.exe.config
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\bin\Debug\ProtChecked.exe
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\bin\Debug\ProtChecked.pdb
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\obj\Debug\ProtChecked.exe
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\obj\Debug\ProtChecked.pdb
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\bin\Debug\NLog.config
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\bin\Debug\NLog.dll
+E:\Kodlar\NET_2017_Denemeler\ProtChecked\ProtChecked\bin\Debug\NLog.xml
