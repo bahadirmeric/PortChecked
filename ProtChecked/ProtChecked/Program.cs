@@ -54,7 +54,7 @@ namespace ProtChecked
                 Console.WriteLine("Girilen değer sayıya çevrilecek bir ifade değil !!! Bu yüzden port sorgulama İPTAL edildi.");
                 logger.Trace("Girilen değer sayıya çevrilecek bir ifade değil !!! Bu yüzden port sorgulama İPTAL edildi.");
             }
-            
+            Console.WriteLine("İşlemi sonllandirmak için bir tuşa basın.");
             Console.ReadKey();
         }
 
